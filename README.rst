@@ -15,7 +15,7 @@ finviz-api
 Downloading & Installation
 ---------------------------
 
-    $ pip install -U git+https://github.com/mariostoev/finviz
+    $ pip install -U git+https://github.com/millelog/finviz
 
 
 What is Finviz?
